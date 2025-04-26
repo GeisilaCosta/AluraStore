@@ -80,7 +80,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone (https://github.com/GeisilaCosta/AluraStore.git)
 Instale as bibliotecas necessárias:
 
 bash
